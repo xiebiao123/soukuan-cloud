@@ -19,6 +19,14 @@
         <module>soukuan-eureka-service</module>
         <module>soukuan-config-service</module>
         <module>soukuan-zipkin-service</module>
+        <module>soukuan-zuul-service</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
