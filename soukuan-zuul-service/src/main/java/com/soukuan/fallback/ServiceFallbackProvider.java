@@ -7,7 +7,7 @@ import org.springframework.http.client.ClientHttpResponse;
 import org.springframework.stereotype.Component;
 
 /**
- * @Title soukuan-order-service的回退类
+ * @Title 统一的FallbackProvider的回退类
  * @date 2018/4/23 22:29
  */
 @Slf4j
