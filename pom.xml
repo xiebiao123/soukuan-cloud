@@ -20,6 +20,7 @@
         <module>soukuan-config-service</module>
         <module>soukuan-zipkin-service</module>
         <module>soukuan-zuul-service</module>
+        <module>soukuan-admin-service</module>
     </modules>
 
     <dependencies>
